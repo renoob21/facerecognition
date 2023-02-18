@@ -1,0 +1,13 @@
+.box {
+    position: absolute;
+    box-shadow: 0 0 0 2px #149df2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.box:hover {
+    opacity: 1;
+}
